@@ -71,7 +71,7 @@ const handleLogout = () => {
             <div style={styles.titleWrapper}>
               <h2 style={styles.brandText}>NexFlow</h2>
             </div>
-            <span style={styles.subText}>Workflow Solutions</span>
+            <span style={styles.subText}>Modern ERP system</span>
           </div>
         </div>
 

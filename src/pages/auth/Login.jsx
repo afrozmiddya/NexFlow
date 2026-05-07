@@ -70,8 +70,8 @@ const Login = () => {
   return (
     <div style={styles.container}>
       <img src={logo} alt="logo" style={styles.logo} />
-      <h2 style={styles.heading}>Anika Enterprises</h2>
-      <p style={styles.subheading}>Ice Cream Wholesaler</p>
+      <h2 style={styles.heading}>NexFlow</h2>
+      <p style={styles.subheading}>Modern ERP system</p>
 
       <form onSubmit={handleSubmit} style={styles.form}>
         <div style={styles.field}>
